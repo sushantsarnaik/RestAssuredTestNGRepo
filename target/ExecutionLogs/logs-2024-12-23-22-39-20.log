@@ -1,0 +1,4 @@
+2024-12-23 22:39:21.050 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\testng.xml
+
+2024-12-23 22:39:21.213 [main] INFO  com.testcases.ReqResGetUser - Sample test executed

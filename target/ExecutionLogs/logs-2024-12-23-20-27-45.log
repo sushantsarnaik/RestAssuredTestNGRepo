@@ -1,0 +1,65 @@
+2024-12-23 20:27:45.967 [main] INFO  org.testng.internal.Utils - [TestRunner] Running the tests in 'Default test' with parallel mode:none
+2024-12-23 20:27:45.970 [main] INFO  org.testng.internal.Utils - [RunInfo] Adding method selector: org.testng.internal.XmlMethodSelector@1b2c4efb priority: 10
+2024-12-23 20:27:45.990 [main] INFO  org.testng.internal.Utils - [TestClass] Creating TestClass for [ClassImpl class=com.testcases.ReqResGetUser]
+2024-12-23 20:27:46.000 [main] INFO  org.testng.internal.Utils - [TestClass] Adding method ReqResGetUser.sampleTest()[pri:0, instance:null] on TestClass class com.testcases.ReqResGetUser
+2024-12-23 20:27:46.010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-23 20:27:46.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.013 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.014 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.018 [main] INFO  org.testng.internal.Utils - [XmlMethodSelector] Including method com.testcases.load()
+2024-12-23 20:27:46.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-23 20:27:46.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2024-12-23 20:27:46.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.043 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.044 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.044 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.045 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.045 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.046 [main] INFO  org.testng.internal.Utils - [XmlMethodSelector] Including method com.testcases.sampleTest()
+2024-12-23 20:27:46.046 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-23 20:27:46.046 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.048 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.049 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.049 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-23 20:27:46.049 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-23 20:27:46.057 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SARNAIK\AppData\Local\Temp\testng-eclipse--982420908\testng-customsuite.xml
+
+2024-12-23 20:27:46.062 [main] INFO  org.testng.internal.Utils - [SuiteRunner] Created 1 TestRunners
+2024-12-23 20:27:46.066 [main] INFO  org.testng.internal.Utils - [TestRunner] Running test Default test on 1  classes,  included groups:[] excluded groups:[]
+2024-12-23 20:27:46.066 [main] INFO  org.testng.TestClass - ===== Test class
+com.testcases.ReqResGetUser
+2024-12-23 20:27:46.067 [main] INFO  org.testng.TestClass -   @BeforeClass ReqResGetUser.load()[pri:0, instance:com.testcases.ReqResGetUser@792bbc74]
+2024-12-23 20:27:46.067 [main] INFO  org.testng.TestClass -     @Test ReqResGetUser.sampleTest()[pri:0, instance:com.testcases.ReqResGetUser@792bbc74]
+2024-12-23 20:27:46.067 [main] INFO  org.testng.TestClass - ======
+2024-12-23 20:27:46.073 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-12-23 20:27:46.081 [main] INFO  org.testng.internal.Utils - [Invoker 1195396074] Invoking @BeforeClass ReqResGetUser.load()[pri:0, instance:com.testcases.ReqResGetUser@792bbc74]
+2024-12-23 20:27:46.095 [main] INFO  org.testng.internal.Utils - [Invoker 1195396074] No configuration methods found
+2024-12-23 20:27:46.100 [main] INFO  org.testng.internal.Utils - [Invoker 1195396074] Invoking com.testcases.ReqResGetUser.sampleTest
+2024-12-23 20:27:46.101 [main] INFO  com.testcases.ReqResGetUser - Sample test executed
+2024-12-23 20:27:46.104 [main] INFO  org.testng.internal.Utils - [Invoker 1195396074] No configuration methods found
+2024-12-23 20:27:46.104 [main] INFO  org.testng.internal.Utils - [Invoker 1195396074] No configuration methods found
+2024-12-23 20:27:46.126 [main] INFO  org.testng.internal.Utils - [[Utils]] Attempting to create C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\test-output\Default suite\Default test.xml
+2024-12-23 20:27:46.126 [main] INFO  org.testng.internal.Utils - [[Utils]]   Directory C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\test-output\Default suite exists: true
+2024-12-23 20:27:46.127 [main] INFO  org.testng.internal.Utils - Creating C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\test-output\Default suite\Default test.xml
+2024-12-23 20:27:46.171 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@60b71e8f: 35 ms
+2024-12-23 20:27:46.171 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1255b1d1: 0 ms
+2024-12-23 20:27:46.181 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6f80fafe: 10 ms
+2024-12-23 20:27:46.186 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@61861a29: 5 ms
+2024-12-23 20:27:46.189 [main] INFO  org.testng.internal.Utils - [[Utils]] Attempting to create C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\test-output\junitreports\TEST-com.testcases.ReqResGetUser.xml
+2024-12-23 20:27:46.189 [main] INFO  org.testng.internal.Utils - [[Utils]]   Directory C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\test-output\junitreports exists: true
+2024-12-23 20:27:46.189 [main] INFO  org.testng.internal.Utils - Creating C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\test-output\junitreports\TEST-com.testcases.ReqResGetUser.xml
+2024-12-23 20:27:46.189 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6a1d204a: 3 ms
+2024-12-23 20:27:46.191 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@62dae245: 0 ms

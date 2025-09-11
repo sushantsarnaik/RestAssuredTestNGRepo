@@ -1,0 +1,5 @@
+2025-09-08 13:55:38.912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\testng.xml
+
+2025-09-08 13:55:39.081 [main] INFO  com.utilities.RestBase - Into load properties method
+2025-09-08 13:55:39.081 [main] INFO  com.utilities.RestBase - Config properties loaded successfully
