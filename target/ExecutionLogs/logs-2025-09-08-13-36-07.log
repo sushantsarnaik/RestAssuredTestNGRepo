@@ -1,5 +1,0 @@
-2025-09-08 13:36:07.950 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\testng.xml
-
-2025-09-08 13:36:08.210 [main] INFO  com.utilities.RestBase - Into load properties method
-2025-09-08 13:36:08.210 [main] INFO  com.utilities.RestBase - Fail to load config properties, Error :C:\PracticeWorkSpace\RestAssuredTestNG\RestAssuredTestNG\src\test\resources\Config\config.properties (The system cannot find the path specified)
